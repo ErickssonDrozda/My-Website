@@ -1,4 +1,4 @@
-# My-Website
+# My Repository Website
 
 Repository of my website developed using react, node and graphql
 
