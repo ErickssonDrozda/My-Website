@@ -1,0 +1,21 @@
+.makeStyles-root-1 header {
+    position: initial;
+    transform: none;
+}
+
+.makeStyles-root-1 header div div{
+    position: initial;
+}
+
+.MuiTabs-flexContainer button{
+    position: initial;
+} 
+
+span.PrivateTabIndicator-root-65.PrivateTabIndicator-colorPrimary-66.MuiTabs-indicator{
+    display: none;
+}
+
+.react-swipeable-view-container {
+    transform: none!important;
+    display: contents!important;
+}

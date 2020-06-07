@@ -1,0 +1,7 @@
+node_modules
+.env
+bckp.txt
+resolvers.js
+Dockerfile
+docker-compose.yml
+yarn.lock

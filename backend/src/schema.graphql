@@ -1,0 +1,20 @@
+type GitHub{
+    name: String,
+    html_url: String,
+    description: String
+}
+
+type Instagram{
+    id: ID!,
+    media_url: String,
+    caption: String
+}
+
+type Query{
+    githublist: [GitHub]!,
+    instagramlist: [Instagram]!
+}
+
+type Mutation{
+    sendMessage(fullname: String!, category: String!, email: String!, subject: String!, description: String!): Boolean!
+}

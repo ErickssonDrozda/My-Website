@@ -1,0 +1,32 @@
+.insta-list-header{
+    font-family: sans-serif;
+    height: 200px;
+    width: 105%;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+    flex-direction: column;
+}
+
+.insta-list-body{
+    width: 50%;
+    display: inline-flex;
+    flex-direction: row-reverse;
+    margin-bottom: 2%;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.insta-list-body p{
+    margin: 9px;
+}
+
+.insta-list-body img{
+    width: 95%;
+    border-radius: 5%;
+}
+
+.insta-list-body video{
+    width: 95%;
+    border-radius: 5%;
+}

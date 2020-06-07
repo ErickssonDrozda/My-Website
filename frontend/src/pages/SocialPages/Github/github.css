@@ -1,0 +1,22 @@
+.context-header{
+    font-family: sans-serif;
+    height: 200px;
+    width: 105%;
+    align-items: center;
+    justify-content: center;
+    overflow: auto;
+    flex-direction: column;
+}
+
+.context-body{
+    width: 100%;
+    display: inline-flex;
+    flex-direction: column;
+    border: 3px solid;
+    border-radius: 2%;
+    margin-bottom: 2%;
+}
+
+.context-body p{
+    margin: 9px;
+}
